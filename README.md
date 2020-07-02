@@ -20,3 +20,5 @@ Parte 2 - Treinamento da rede para Prever a Ocorrência de Câncer
   - Split Dados Treino e Teste;
   - Treinamento do modelo;
   - Avaliação do Resultado do modelo;
+
+O dataset pode ser obtido: https://scikit-learn.org/stable/datasets/index.html#breast-cancer-dataset ou através da biblioteca sklearn.datasets.
