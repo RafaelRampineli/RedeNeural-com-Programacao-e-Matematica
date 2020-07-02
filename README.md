@@ -1,4 +1,4 @@
-# RedeNeural-com-Programaçao-e-Matemática
+# RedeNeural-com-Programação-e-Matemática
 
 Projeto desenvolvido no curso de Machine Learning da Formação Cientista de Dados da Data Science Academy (DSA).
 
